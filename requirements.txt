@@ -1,0 +1,6 @@
+kafka-python
+requests
+google-auth
+apache-airflow-providers-google
+apache-airflow-providers-apache-kafka
+python-dotenv
