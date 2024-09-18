@@ -1,7 +1,7 @@
 
 ---
 
-## Building an End-to-End Real-Time Streaming Data Pipeline
+## Building an End-to-End Real-Time Forex Price Streaming Data Pipeline
 
 ### Overview
 
